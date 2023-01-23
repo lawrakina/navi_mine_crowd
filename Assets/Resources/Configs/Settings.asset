@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff27035b07c449589d694f82a2a39ca3, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  <GlobalSquadSettings>k__BackingField:
+    <LuckForInstancingUnit>k__BackingField: 0
+  <CaptainSettings>k__BackingField:
+    <Speed>k__BackingField: 5
+    <CaptainPrefab>k__BackingField: {fileID: 757600589931897636, guid: 75e8d405441a32345ae3011202665b07, type: 3}
+  <EnemySettings>k__BackingField:
+    <Prefab>k__BackingField: {fileID: -5536140855164824432, guid: 99eec14be618bfa41bd91b2f81378729, type: 3}
+    <PathUpdateFrequency>k__BackingField: 3
+    <PathRadiusFinder>k__BackingField: 10
+  <UnitSettings>k__BackingField:
+    <Speed>k__BackingField: 5
+    <UnitFlyDelay>k__BackingField: 0.5
+  <EffectSettings>k__BackingField:
+    <SecrifaceEffect>k__BackingField: {fileID: 5400422356534381403, guid: 8f09b9201125d354eae3148e648282aa, type: 3}
+    <FlySpirits>k__BackingField: {fileID: 5400422356534381403, guid: 8958ee06d0a9daa4bb7884b8e0ecbaff, type: 3}
+  <BattleSettings>k__BackingField:
+    <AttackFrequency>k__BackingField: 0.1
+    <TimeScaleWhenAttack>k__BackingField: 0
+    <ShakePower>k__BackingField: 50
+    <ShakeDuration>k__BackingField: 50
+    <LevelTime>k__BackingField: 120
+  <SquadSettings>k__BackingField:
+    <Color>k__BackingField: {r: 0, g: 0.40784314, b: 1, a: 1}
+    <MaterialColor>k__BackingField: {fileID: 2100000, guid: 0ced2700119fc324e9442ac4e3c5bcde, type: 2}
+    <OwnerMaterialColor>k__BackingField: {fileID: 2100000, guid: 15a55997b1a249042a50cea0cb39aded, type: 2}
+    <UnitView>k__BackingField: {fileID: 3263170531457977255, guid: 127e2dea147c7644c9a2f10294e8a6cf, type: 3}
+    <LuckForInstancingUnit>k__BackingField: 0
+  <MinerSettings>k__BackingField:
+    <MineDelay>k__BackingField: 0.5
+    <MineEndChecker>k__BackingField: 0.3
+  <InventorySettings>k__BackingField:
+    <Stack>k__BackingField: {fileID: 4005055608291022344, guid: 6dd83df3eac7cea4d898e9542b13cdb2, type: 3}
+    <DropTime>k__BackingField: 0.15
+  <CameraSettings>k__BackingField:
+    CameraDistanceDefault: 30
+    UnitCountForChange: 30
+    <CameraDistance>k__BackingField:
+    - UnitsCount: 0
+      CameraDistance: 10
+    - UnitsCount: 5
+      CameraDistance: 13
+    - UnitsCount: 15
+      CameraDistance: 20
+    - UnitsCount: 100000000
+      CameraDistance: 100
+  <AnimationSettings>k__BackingField:
+    <DelayBeforeAddResource>k__BackingField: 300

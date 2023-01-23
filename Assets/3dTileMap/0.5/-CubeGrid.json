@@ -1,0 +1,54 @@
+{
+    "_type": 0,
+    "_name": "-CubeGrid",
+    "_size_cell": 0.5,
+    "_gap": 0.5,
+    "_map": [
+        {
+            "_pathPrefab": "Assets/3dTileMap/0.5/Stone_Small.prefab",
+            "_index": {
+                "x": 49,
+                "y": 0,
+                "z": -91
+            },
+            "_localposition": {
+                "x": 12.25,
+                "y": 0.0,
+                "z": -22.75
+            },
+            "_localrotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_localscale": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+            }
+        },
+        {
+            "_pathPrefab": "Assets/3dTileMap/0.5/Stone_Small.prefab",
+            "_index": {
+                "x": 45,
+                "y": 0,
+                "z": -91
+            },
+            "_localposition": {
+                "x": 11.25,
+                "y": 0.0,
+                "z": -22.75
+            },
+            "_localrotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_localscale": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+            }
+        }
+    ]
+}

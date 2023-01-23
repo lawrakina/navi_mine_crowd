@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - IgnoreForScreenshot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Floor
+  - Water
+  - UI
+  - Bones
+  - Unit
+  - UnitTrigger
+  - UnitPusher
+  - UnitMiner
+  - Resources
+  - Inventory
+  - Building
+  - UnitCounter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Label
+    uniqueID: 3738852565
+    locked: 0
+  - name: Label_Text
+    uniqueID: 3394157837
+    locked: 0
+  - name: Effect
+    uniqueID: 2190955797
+    locked: 0
